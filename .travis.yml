@@ -2,4 +2,4 @@ install: make get-deps
 language:c
 script:make dep && make && make test
 compilier:
-	- gcc
+ - gcc
