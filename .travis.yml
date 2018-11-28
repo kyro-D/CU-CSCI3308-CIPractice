@@ -1,4 +1,4 @@
-language:c
-script:make dep && make && make test
+language: c
+script: make dep && make && make test
 compilier:
  - gcc
